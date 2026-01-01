@@ -1,22 +1,67 @@
-<h1 align="center">Hi 👋, I'm Imtiazul Hoque</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from Chattogram, Bangladesh</h3>
+<!-- ===================== BANNER ===================== -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz8936&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz8936" /> </p>
+# 👋 Hi, I'm Jack  
+### 💻 Frontend / Full Stack Developer  
 
-- 🔭 I’m currently working on **Zap-Shift**
+---
 
-- 🌱 I’m currently learning **Next.js**
+## 👨‍💻 About Me
+I am a passionate web developer focused on building clean, responsive, and user-friendly web applications.  
+I enjoy working with modern JavaScript frameworks and continuously improving my problem-solving skills.  
+My goal is to grow as a professional developer and contribute to impactful real-world projects.
 
-- 📫 How to reach me **imtiazulhoque8936@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Current Activities
+- Exploring **Next.js** and modern React patterns  
+- Working on a **tourism website** project  
+- Improving backend development with **Django & MongoDB**  
+- Practicing clean code, performance optimization, and best practices  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz8936&show_icons=true&locale=en" alt="imtiaz8936" /></p>
+## 🛠 Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz8936&" alt="imtiaz8936" /></p>
+### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### ⚙️ Backend
+![Django](https://skillicons.dev/icons?i=django)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+### 🛠 Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 🌐 Connect With Me
+📍 **Location:** Bangladesh  
+📧 **Email:** your@email.com  
+📞 **Contact:** +8801XXXXXXXXX  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourusername)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+
+---
+
+✨ *Always open to meaningful conversations, collaborations, and new opportunities—feel free to connect and let’s keep in touch.*
+
 
