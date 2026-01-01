@@ -1,6 +1,10 @@
 <!-- ===================== BANNER ===================== -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
-![Full Stack MERN Developer](https://img.shields.io/badge/Full%20Stack-MERN%20Developer-blue?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 # 👋 Hi, I'm Imtiazul Hoque 
