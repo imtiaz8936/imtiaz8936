@@ -1,5 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
+![Full Stack MERN Developer](https://img.shields.io/badge/Full%20Stack-MERN%20Developer-blue?style=for-the-badge)
+
 
 # 👋 Hi, I'm Imtiazul Hoque 
 ### 💻 Full Stack MERN Developer  
