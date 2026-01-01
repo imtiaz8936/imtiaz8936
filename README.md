@@ -54,11 +54,11 @@ My goal is to grow as a professional developer and contribute to impactful real-
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaz8936&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz8936&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=imtiaz8936&theme=tokyonight)
 
 ---
 
