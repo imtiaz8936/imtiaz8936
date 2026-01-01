@@ -1,7 +1,7 @@
-
+<!-- ===================== BANNER ===================== -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
-# 👋 Hi, I'm Jack  
+# 👋 Hi, I'm Imtiaz  
 ### 💻 Frontend / Full Stack Developer  
 
 ---
@@ -15,7 +15,7 @@ My goal is to grow as a professional developer and contribute to impactful real-
 
 ## 🚀 Current Activities
 - Exploring **Next.js** and modern React patterns  
-- Working on a **tourism website** project  
+- Working on a **tourism website**  
 - Improving backend development with **Django & MongoDB**  
 - Practicing clean code, performance optimization, and best practices  
 
@@ -48,20 +48,18 @@ My goal is to grow as a professional developer and contribute to impactful real-
 📞 **Contact:** +8801XXXXXXXXX  
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourusername)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourusername)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/imtiaz8936)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaz8936&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=imtiaz8936&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaz8936&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imtiaz8936&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imtiaz8936&theme=tokyonight)
 
 ---
 
-✨ *Always open to meaningful conversations, collaborations, and new opportunities—feel free to connect and let’s keep in touch.*
-
-
+✨ *Always open to meaningful conversations, collaborations, and new opportunities — let’s keep in touch.*
