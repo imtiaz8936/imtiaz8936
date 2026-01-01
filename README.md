@@ -42,6 +42,30 @@ My goal is to grow as a professional developer and contribute to impactful real-
 
 ---
 
+## 🌟 Featured Projects
+
+### 🏖 Tourism Website
+- Responsive tourism platform built using **React & Bootstrap**
+- Clean UI with modern layout and routing
+- Focused on user experience and performance  
+🔗 *Project link:* https://github.com/imtiaz8936
+
+### 🎉 Event Management System
+- Full-stack system built with **Django & MongoDB**
+- Features include event creation, participant management, and dashboard
+- Optimized queries and clean backend architecture  
+🔗 *Project link:* https://github.com/imtiaz8936
+
+### 📄 Portfolio Website
+- Personal portfolio showcasing projects and skills
+- Built using **HTML, CSS, JavaScript**
+- Fully responsive and recruiter-friendly  
+🔗 *Project link:* https://github.com/imtiaz8936
+
+> 👉 Replace project links with actual repo links when available
+
+---
+
 ## 🌐 Connect With Me
 📍 **Location:** Bangladesh  
 📧 **Email:** your@email.com  
@@ -59,6 +83,12 @@ My goal is to grow as a professional developer and contribute to impactful real-
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=imtiaz8936&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=imtiaz8936&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Graph
+
+![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
