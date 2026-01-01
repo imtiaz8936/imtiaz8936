@@ -41,14 +41,6 @@ My goal is to grow as a professional developer and contribute to impactful real-
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
-## 🌐 Connect With Me
-📍 **Location:** Chattogram, Bangladesh  
-📧 **Email:** imtiazulhoque8936@gmail.com  
-📞 **Contact:** 01614368936 
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/imtiazulhoque)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/imtiaz8936)
-
 ## 🐍 Contribution Graph
 
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -56,3 +48,11 @@ My goal is to grow as a professional developer and contribute to impactful real-
 ---
 
 ✨ *Always open to meaningful conversations, collaborations, and new opportunities — let’s keep in touch.*
+
+## 🌐 Connect With Me
+📍 **Location:** Chattogram, Bangladesh  
+📧 **Email:** imtiazulhoque8936@gmail.com  
+📞 **Contact:** 01614368936 
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/imtiazulhoque)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/imtiaz8936)
